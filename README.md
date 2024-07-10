@@ -1,1 +1,2 @@
 # cvProjects
+This repository contains the projects I have worked on during my Computer Vision journey. The projects are implemented using OpenCV, PyTorch, and TensorFlow. The projects are divided into two categories: Image Processing and Computer Vision. The Image Processing projects are basic projects that involve image manipulation, while the Computer Vision projects are more advanced projects that involve object detection, image segmentation, and image classification.
