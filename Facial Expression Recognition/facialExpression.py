@@ -16,7 +16,6 @@ warnings.filterwarnings('ignore')
 from tensorflow.keras.callbacks import ModelCheckpoint
 
 train_dir = 'Facial Expression Recognition/fer2013/train'
-test_dir = 'Facial Expression Recognition/fer2013/test'
 model_path = 'Facial Expression Recognition/facialExpression.h5'
 
 classes = os.listdir(train_dir)
