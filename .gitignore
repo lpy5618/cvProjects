@@ -171,3 +171,4 @@ cython_debug/
 *.hdf5
 *.pkl
 *.pth
+*.tar.gz
